@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstname": "William",
+      "lastname": "Shakespeare",
+      "email": "william@gmail.com",
+      "phonenumber": "8898664590",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "firstname": "George",
+      "lastname": "Orwell",
+      "email": "Orwell@gmail.com",
+      "phonenumber": "9988665544",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "firstname": "Kurt",
+      "lastname": "Vonnegut",
+      "email": "kurt@gmail.com",
+      "phonenumber": "7788996600",
+      "status": "Inactive"
+    },
+    {
+      "id": 4,
+      "firstname": "Virginia",
+      "lastname": "Woolf",
+      "email": "master1@gmail.com",
+      "phonenumber": "9900346789",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "firstname": "William",
+      "lastname": "Faulkner",
+      "email": "faulkner@gmail.com",
+      "phonenumber": "4488779944",
+      "status": "Active"
+    },
+    {
+      "id": 6,
+      "firstname": "Siddharth",
+      "lastname": "Patil",
+      "email": "patya1@gmail.com",
+      "phonenumber": "7877998982",
+      "status": "Active"
+    }
+  ]
+}
